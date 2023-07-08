@@ -1,0 +1,1 @@
+sin esta linea nuestro archivo txt estaria vacio
